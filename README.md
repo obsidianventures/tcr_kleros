@@ -15,7 +15,7 @@ The initial TCRs (let's call it "Phase 1") will focus on creating a list of toke
 The workflow for the TCRs would be included as part of the existing MakerDAO collateral onboarding process. The purpose of this is to provide for a part of the MakerDAO process for onboarding collateral where tokens **must** first be approved by the Kleros protocol with sufficient quality before being listed in MakerDAO. The problem here is that some tokens may take a while to approve, given that they are going through a commercial arbitration process on Kleros to assess their quality. The way we will avoid these long waiting times is by:
 
 1. (Phase 1) Focusing on TCRs for token models first to create a general framework for real world asset collateral;
-2. (Phase 2) Creating TCRs for tokens that will refer back to approved models.
+2. (Phase 2) Creating TCRs for tokens that will refer back to approved models. 
 
 Therefore, to be approved, a TCR for a real world asset on either MakerDAO or Phase 2 of the TCRs on Kleros, would only need to prove that they're classified under an existing and approved TCR model on Kleros for real world assets.
 
@@ -57,6 +57,14 @@ The ideal kind of juror will be really hard to find. That's because this new cou
    5. Caribbean Court of Justice (Arbitral Arm)
 2. **Time-Frame** - given the time-sensitive nature of listing tokens as collateral for real world assets, there would need to be a specific time frame through which the voting for the TCR would be open following its listing for approval;
 3. **Token Distribution** - the token distribution model for this kind of court will likely result in higher payments of tokens back to jurors for deciding on cases given the specialty of the securities knowledge required. 
+
+# Draft Models
+
+The first two draft models will be the "Centrifuge" and "Trust" model, both of which will be vetted and approved by the MakerDAO real world assets group. Here is a draft template of the Centrifuge model:
+
+ [centrifuge.md](models/centrifuge.md) 
+
+
 
 
 
