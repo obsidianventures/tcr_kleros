@@ -1,22 +1,19 @@
-# Centrifuge Model
+# Listing criteria for Tinlake Model
 
+1. **Jurisdiction** - This model is built to comply with companies listing using Delaware C-Corp companies.
+2. **Creator** - Centrifuge and Securitize Team. The model uses contracts to create a series of tokens referred to as TIN and DROP tokens issued through a subscription agreement. 
+3. **Proof** - 
+   1. Securitize White Paper
+   2. Securitize White Label Platform
+4. **Evidence** - these can be provided in a Google Drive, Dropbox or IPFS link. Ideally, IPFS. This format for entry can be a field for text or URLs. Here is an URL with the latest templates for this legal model:
 
-
-1. **Evidence** - these are contracts and documents that architect what the token model looks like and is made up of. For example, each token model will be a list of certain sets of documents/samples that would be provided as part of the framework. The evidence in this case wil almost always be templates of the documents that are being used to create the digital versions of the tokens for the end-user of the real world assets. In this case, the end users are MakerDAO vault owners;
-2. **Badge** - each token model will be provided with a "Badge". The Badge will be denominated by colors and will determine the status of the models as they are being arbitrated.
-   1. Green: the token model has been approved by Kleros jurors;
-   2. Red: the token model has been challenged and does not pass the quality test of Kleros jurors;
-   3. Yellow: the token model is currently being arbitrated;
-   4. Orange: the token model has been provisionally approved pending certain changes to the templates, structures or other documents provided in the decision by Kleros jurors;
-3. **Requirement** - each token model and TCR will come with a set of requirements that summarize how the token model meets legal criteria to be listed as a token. The requirements serve as a summary of the token model and its primary characteristics.
-4. **Workflow** token models for real world asset securiites can be confusing. Each TCR for a token model will provide a workflow that summarizes step-by-step how the process of operating the model works.
-5. **Compliance** - Each TCR will provide a framework for how it will meet certain compliance measures, especially those related to data protection, KYC and AML while on the blockchain.
+https://drive.google.com/open?id=1o4X55m51DcjCgfvJo4be5BZTifIHchxp&authuser=marvin%40getraise.io&usp=drive_fs
 
 
 
 # Evidence
 
-New Silver Lending LLC used a series of documents and contracts to create the structure:
+The evidence above is comprised of the following documents:
 
 1. **Limited Liability Operating Agreement -** this agreement governs the relationship between New Silver Lending LLC and NS Pool, an SPV created for this structure above. The LLC Agreement creates the structure for New Silver Lending LLC to be able to operate the LLC and create additional Series of companies.
 
