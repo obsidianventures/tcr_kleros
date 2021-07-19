@@ -185,8 +185,9 @@ The architecture of the Kleros Asset Court over time will therefore be made up o
 
 1. Live real-world compliance and token curated lists
 2. Decision-making and arbitral awards: a decentralized commercial arbitration court
+3. Open source code & framework for other platforms to plug into and leverage the Kleros Asset Court
 
-The phases 1 and 2 built out the live real-world compliance models and assets to be sure that Kleros is providing an open framework to rate compliance for all on-chain real-world assets. Since that model is open source, the data on the latest compliance rules, decisions and cases for different assets should stay current and accurate within the Kleros lists for real-world assets.
+The phases 1 and 2 described throughout this paper will build out the live real-world compliance models and assets to be sure that Kleros is providing an open framework to rate compliance for all on-chain real-world assets. Since that model is open source, the data on the latest compliance rules, decisions and cases for different assets should stay current and accurate within the Kleros lists for real-world assets.
 
 With that data, the Kleros Asset Courts rules for deciding and arbitrating cases will use these lists as evidence. Even more, the court will need to be built to facilitate real-world enforcement of decisions made by the Kleros Asset Court (more on that above). In this way, the Kleros Asset Court and the future of Kleros for Real World Assets will act as a compliance infrastructure for on-chain commercial arbitration.
 
